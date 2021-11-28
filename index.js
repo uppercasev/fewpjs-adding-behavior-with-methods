@@ -32,5 +32,3 @@ class Bird {
         }
     }
 }
-
-let bird = new Bird("Pablo", "male");
